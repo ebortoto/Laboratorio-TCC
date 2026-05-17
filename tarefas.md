@@ -39,16 +39,16 @@ Os cenários de treino são: **Completo** (todas as classes), **Sem XSS** e **Se
 - [x] Definir a estratégia de limiar de anomalia (95º percentil do erro de reconstrução no treino BENIGN).
 
 ### Melhoria D — CICIDS2017, sem redução de dimensionalidade
-- [ ] Avaliado no conjunto de teste completo
+- [x] Avaliado no conjunto de teste completo
 
 ### Melhoria E — LycoS-IDS2017, sem redução de dimensionalidade
-- [ ] Avaliado no conjunto de teste completo
+- [x] Avaliado no conjunto de teste completo
 
 ### Melhoria F — CICIDS2017, com redução de dimensionalidade (MDI)
-- [ ] Avaliado no conjunto de teste completo
+- [x] Avaliado no conjunto de teste completo
 
 ### Melhoria G — LycoS-IDS2017, com redução de dimensionalidade (MDI)
-- [ ] Avaliado no conjunto de teste completo
+- [x] Avaliado no conjunto de teste completo
 
 ---
 
@@ -113,7 +113,7 @@ Os cenários de treino são: **Completo** (todas as classes), **Sem XSS** e **Se
 
 | Script | Status |
 |---|---|
-| CICIDS2017 - Teste completo | 🟡 |
-| LycoS - Teste completo | 🟡 |
-| CICIDS2017 + MDI - Teste completo | 🟡 |
-| LycoS + MDI - Teste completo | 🟡 |
+| CICIDS2017 - Teste completo | ✅ |
+| LycoS - Teste completo | ✅ |
+| CICIDS2017 + MDI - Teste completo | ✅ |
+| LycoS + MDI - Teste completo | ✅ |
